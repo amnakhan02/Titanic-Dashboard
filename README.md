@@ -16,14 +16,14 @@ The source dataset has been enriched with the following new columns and also I c
   - `Old` (46+)  
 - **Family_Size** – number of relatives aboard (SibSp + Parch+1), describing group size
 
-## 🚀 Objectives
+## Objectives
 
 - Provide a clear visual dashboard to explore survival patterns on the Titanic  
 - Demonstrate how **gender**, **passenger class**, **age**, and **family size** affected survival chances  
 - Improve raw data readability with conversational categorical columns  
 - Enable interactive filtering via slicers for `Pclass_Status` and `Sex`
 
-## 🧠 Key Insights
+## Key Insights
 
 - Total passengers: **891**; **342 survived**, **549 dead** (~38% survival)  
 - **Lower Class (Third Class)** had the highest mortality (~68%), while **Upper Class (First Class)** had the best survival (~40%)  
